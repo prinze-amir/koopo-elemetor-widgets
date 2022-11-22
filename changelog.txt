@@ -1,0 +1,5 @@
+This is the changelog for Koopo Widgets plugin
+10/5/2020 version 2.1.1 update:
+ -Added forms widget based off of elementorpro forms functionality.
+ - fixed missing koopo widgets category panel
+ -added base-widget class which improves flow for adding widget to category
